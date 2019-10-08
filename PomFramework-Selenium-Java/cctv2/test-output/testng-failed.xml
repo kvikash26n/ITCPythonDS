@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Parallel test suite]" parallel="tests">
+  <test name="CCTVTest(failed)" parallel="tests">
+    <classes>
+      <class name="com.testpages.ManageT0Test">
+        <methods>
+          <include name="thisClassTestStarted"/>
+          <include name="searchT0users" invocation-numbers="0"/>
+          <include name="driverAndExtentReportSetup"/>
+          <include name="afterMethod"/>
+          <include name="endTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.testpages.ManageT0Test -->
+    </classes>
+  </test> <!-- CCTVTest(failed) -->
+</suite> <!-- Failed suite [Parallel test suite] -->

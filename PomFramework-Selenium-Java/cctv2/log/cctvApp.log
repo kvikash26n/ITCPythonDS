@@ -1,0 +1,19 @@
+2018-05-01 17:36:38,676 - com.utils.TestBase -INFO - ***** Test case execution of Class com.testpages.ManageT0Teststarted******
+2018-05-01 17:36:38,693 - com.utils.GenericUtilities -INFO - ********* Reading data from sheet: T0Search
+2018-05-01 17:36:43,454 - com.utils.TestBase -INFO - ***********Window maximized and browser cookies deleted******
+2018-05-01 17:36:43,478 - com.utils.TestBase -INFO - ********* Launching chrome browser*****************
+2018-05-01 17:37:02,090 - com.utils.TestBase -INFO - ********* Opening URL-- https://dev3-cctv.ajilonservices.com.au/ *****************
+2018-05-01 17:37:02,277 - com.utils.TestBase -INFO - ********* login started **********
+2018-05-01 17:37:05,769 - com.utils.GenericUtilities -INFO - Clicked element-- [[ChromeDriver: chrome on WIN8_1 (d8c852b1880c58b07ed7eefe9d1cad37)] -> xpath: /html/body/section/section/div/div/article/div/div[2]/a]
+2018-05-01 17:37:18,125 - com.utils.GenericUtilities -INFO -  Send data T000000192 to element : [[ChromeDriver: chrome on WIN8_1 (d8c852b1880c58b07ed7eefe9d1cad37)] -> xpath: .//*[@id='cred_userid_inputtext']]
+2018-05-01 17:37:19,222 - com.utils.GenericUtilities -INFO -  Send data cctv@123 to element : [[ChromeDriver: chrome on WIN8_1 (d8c852b1880c58b07ed7eefe9d1cad37)] -> xpath: .//*[@id='cred_password_inputtext']]
+2018-05-01 17:37:31,154 - com.utils.GenericUtilities -INFO - Clicked element-- [[ChromeDriver: chrome on WIN8_1 (d8c852b1880c58b07ed7eefe9d1cad37)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-05-01 17:37:31,158 - com.utils.TestBase -INFO - ********* login finished **********
+2018-05-01 17:37:33,228 - com.utils.TestBase -INFO - ****************Search T0 started ****************
+2018-05-01 17:37:51,282 - com.utils.GenericUtilities -INFO - Clicked element-- [[ChromeDriver: chrome on WIN8_1 (d8c852b1880c58b07ed7eefe9d1cad37)] -> xpath: (//*[@id='RegistrationPanel']/div/h4/a)[position()=1]]
+2018-05-01 17:37:52,165 - com.utils.GenericUtilities -INFO -  Send data alok to element : [[ChromeDriver: chrome on WIN8_1 (d8c852b1880c58b07ed7eefe9d1cad37)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[1]/input]
+2018-05-01 17:37:53,837 - com.utils.GenericUtilities -INFO -  Send data rai to element : [[ChromeDriver: chrome on WIN8_1 (d8c852b1880c58b07ed7eefe9d1cad37)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[2]/input]
+2018-05-01 17:37:54,976 - com.utils.GenericUtilities -INFO - Clicked element-- [[ChromeDriver: chrome on WIN8_1 (d8c852b1880c58b07ed7eefe9d1cad37)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-05-01 17:38:27,077 - com.utils.TestBase -INFO - ***************All test cases of Class com.testpages.ManageT0Test executed******
+2018-05-01 17:38:40,529 - com.utils.TestBase -INFO - =====Email Sent to  friend9831@gmail.com  =====
+2018-05-01 17:38:40,529 - com.utils.TestBase -INFO - *********** All test classes run. Extent report generated and put in : C:\Users\22231\git\PomFramework-Selenium-Java\cctv2\extentReports .Quitting browser**********

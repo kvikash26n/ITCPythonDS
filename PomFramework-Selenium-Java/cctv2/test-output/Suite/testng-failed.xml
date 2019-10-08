@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.testpages.manageuserstest">
+        <methods>
+          <include name="creatingt0user1"/>
+          <include name="editt0test"/>
+          <include name="initializeTestBaseSetup"/>
+          <include name="downloadT2uploadTemplate"/>
+          <include name="creat1T1users"/>
+          <include name="searchT0users"/>
+          <include name="uploadT2users"/>
+        </methods>
+      </class> <!-- com.testpages.manageuserstest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

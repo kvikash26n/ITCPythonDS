@@ -1,0 +1,30 @@
+visualization -matplotlib
+.........................
+choose the appropriate plot type
+
+define all axis label
+
+add title to our plot
+
+...........................
+plt.title(“My Title”) will add a title “My Title” to your plot
+
+plt.xlabel(“Year”) will add a label “Year” to your x-axis
+
+plt.ylabel(“Population”) will add a label “Population” to your y-axis
+
+plt.xticks([1, 2, 3, 4, 5]) set the numbers on the x-axis to be 1, 2, 3, 4, 5. We can also pass and labels as a second argument. For, example, if we use this code plt.xticks([1, 2, 3, 4, 5], ["1M", "2M", "3M", "4M", "5M"]), it will set the labels 1M, 2M, 3M, 4M, 5M on the x-axis.
+
+plt.yticks() - works the same as plt.xticks(), but for the y-axis.
+
+..................................
+line plot
+scatter plot,plot.scatter()-- for co-relation
+histogram plot,plot.hist()---
+
+box plot
+
+
+
+
+ 

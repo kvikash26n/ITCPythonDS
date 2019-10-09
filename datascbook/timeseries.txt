@@ -1,0 +1,5 @@
+https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
+
+https://courses.edx.org/asset-v1:MITx+CTL.SC1x_1+2T2015+type@asset+block/w2l2_TimeSeries_v5_ANNOTATED.pdf
+
+http://prospectlearning.com/210/1NSLectures/NS06_Forecast_MovingA.pdf

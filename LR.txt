@@ -1,0 +1,48 @@
+https://towardsdatascience.com/linear-regression-using-python-ce21aa90ade6
+https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9
+
+https://pysource.com/2018/08/26/knn-handwritten-digits-recognition-opencv-3-4-with-python-3-tutorial-36/
+
+https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5
+
+
+
+ios n android real time 
+
+what are the diff types of app are there in mobile--just tell some diff.
+
+how to write locators in both 
+
+java ---
+
+parallel excution
+
+can u do that
+
+screening 
+
+
+till she gets pragnent and for her and baby health to drink cow milk
+
+
+
+API---
+
+How you are doing API testing
+
+which tool,which lang
+
+what are diff method avai in API
+
+diff response code
+
+
+TESTNG-----
+if all correct the it will go in try then 
+try
+	for  
+catch{
+goto try block then run as it is
+}
+
+

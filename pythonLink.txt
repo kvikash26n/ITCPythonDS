@@ -1,0 +1,37 @@
+https://stackoverflow.com/questions/29464234/compare-python-pandas-dataframes-for-matching-rows
+
+https://stackoverflow.com/questions/17095101/outputting-difference-in-two-pandas-dataframes-side-by-side-highlighting-the-d/17095620
+
+
+https://qaboy.com/2018/01/15/automated-framework-using-selenium-with-python/
+
+
+https://testingbot.com/support/getting-started/python.html
+
+https://testingbot.com/support/getting-started/pytest.html
+
+https://docs.python.org/2/howto/logging.html
+
+https://docs.python.org/2/library/unittest.html
+https://www.youtube.com/watch?v=-LfyYDuryT4&feature=share&app=desktop
+
+what are diffrent Kind of API is available ?
+
+could you pplease explain the arcticture??
+
+explain about the diffrent method which is avialable??
+
+what is diffrent responce code and there meaning?
+
+
+cd C:\Automation\XmlDemo
+
+set classpath=C:\Automation\XmlDemo\bin;C:\Automation\XmlDemo\lib\*
+
+java org.testng.TestNG C:\Automation\XmlDemo\testng.xml
+
+
+there is always way to go into win win situtation
+https://medium.freecodecamp.org/the-essential-git-handbook-a1cf77ed11b5  ---git best blog
+
+https://www.analyticsvidhya.com/blog/2019/08/7-innovative-machine-learning-github-projects-in-python/ ==python git hub NLP project

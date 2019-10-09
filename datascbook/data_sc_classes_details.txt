@@ -1,0 +1,55 @@
+
+import pandas as pd
+df=pd.read_csv('C:\\Users\\29265\\Downloads\\train.csv')
+df
+
+Null value repalce method n approach
+
+##import pandas as pd
+df=pd.read_excel('C:\\Users\\29265\\Desktop\\train.xlsx',na_values=True)
+df
+
+## import pandas as pd
+import numpy as np
+df=pd.read_csv("C:\\Users\\29265\\Downloads\\train.csv")
+df1=pd.DataFrame(np.random.randn(2,2))
+df1
+
+## df.isna().sum()
+## df.fillna(1,inplace=True)
+## df.['Cabin'].fillna(1,inplace=True)
+
+python revision
+
+23rd june,2018
+seaborn -
+    kdc
+    all type of graph
+    heatmap
+    categorical vs continuous
+    
+
+
+24th june 2018
+pandas v2- 
+    data frame,
+    draw graph using pandas between two variable,
+    plot all graph in one canvas which you have done in above task
+    change index using inplace function
+    join between two table like two data,use of indication function
+    use filter function,find left outer join
+    find all null value n remove null value using mean value or character or ....
+
+
+30th june 2018
+
+pandas v3-
+     same rivison of  last class
+
+01st july 2018
+pandas v4-
+     some advanced form of using ofpandas in real time. 
+     Did practical handson using code  
+
+        
+

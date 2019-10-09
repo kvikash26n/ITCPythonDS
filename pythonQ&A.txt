@@ -1,0 +1,43 @@
+IVR
+
+tuple,dic, class hothod,instance method,
+
+polymorphism
+
+
+
+library used-- done
+(math,selenium,smtp,pandas,numpy,urllib,counter)
+
+jenkins setup-- need to explore
+
+number is mtual,string,list--- done
+
+decorator and generators
+
+class method first argument
+
+self concept
+
+datatype in python
+
+arg and karg
+
+lambada,map ,reduce,filter
+
+class,method
+self
+
+regular expression(findall,Sesarch)
+
+what is driver and its property,
+browser property
+what driver hold in selenium
+
+extends and append
+reverse string with out using split method
+
+protocal in API
+
+
+

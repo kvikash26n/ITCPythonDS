@@ -1,0 +1,11 @@
+https://grimhacker.com/2014/11/23/installing-pytesseract-practically-painless/
+
+https://stackoverflow.com/questions/49234709/how-to-install-tesseract-for-python-on-anaconda
+
+conda install -c ijstokes pytesseract
+
+https://anaconda.org/ijstokes/pytesseract
+
+conda install -c auto pytesseract 
+
+https://micropyramid.com/blog/extract-text-with-ocr-for-image-files-in-python-using-pytesseract/

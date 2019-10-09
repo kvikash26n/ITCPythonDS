@@ -1,0 +1,20 @@
+What is TCOE automation framework?
+
+The main offerings of TCOE are – 
+•	Functional Test Automation (SAP, Web, Mobile) through re-usable frameworks
+•	Non Regression Testing (what do u mean by this,sanity or smoke)
+
+OS, Browser etc(os means(updated/any other req.),browser requirement.both mobile/web app
+
+need to understand the automation framework.
+
+application
+
+They are keeping all script n result in ALM, need to understand
+
+hwo they are executing
+
+
+
+
+

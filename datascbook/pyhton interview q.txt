@@ -1,0 +1,35 @@
+exception handling
+
+framework design
+
+oops concept implementaion in ur framework
+
+report
+
+pyhton slicing
+
+lamda finction use
+
+
+tell us something about the unittest and pytest frameworks and how did you implement that.
+
+POM 
+
+Reporting Tool
+
+Dictionaries
+
+what is a docsrting
+
+how to find dublicate value from a columns.
+
+decorators-pytest
+
+setup and teardown methods
+
+logging infrastructure- design ----logger, formatter and file handler
+ 
+Whjat all logging levels are available?
+
+
+what all libraries have you used for interacting with excel
